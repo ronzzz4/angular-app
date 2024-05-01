@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+}
+.card{
+    background-color: whitesmoke;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.send button {
+    margin: 10px;
+}
